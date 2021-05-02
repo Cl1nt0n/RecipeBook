@@ -1,0 +1,11 @@
+D:\clessons\dataBaseProject\dataBaseProject\bin\Debug\dataBaseProject.exe.config
+D:\clessons\dataBaseProject\dataBaseProject\bin\Debug\dataBaseProject.exe
+D:\clessons\dataBaseProject\dataBaseProject\bin\Debug\dataBaseProject.pdb
+D:\clessons\dataBaseProject\dataBaseProject\obj\Debug\dataBaseProject.csprojAssemblyReference.cache
+D:\clessons\dataBaseProject\dataBaseProject\obj\Debug\dataBaseProject.FormRecipeBook.resources
+D:\clessons\dataBaseProject\dataBaseProject\obj\Debug\dataBaseProject.Properties.Resources.resources
+D:\clessons\dataBaseProject\dataBaseProject\obj\Debug\dataBaseProject.csproj.GenerateResource.cache
+D:\clessons\dataBaseProject\dataBaseProject\obj\Debug\dataBaseProject.csproj.CoreCompileInputs.cache
+D:\clessons\dataBaseProject\dataBaseProject\obj\Debug\dataBaseProject.exe
+D:\clessons\dataBaseProject\dataBaseProject\obj\Debug\dataBaseProject.pdb
+D:\clessons\dataBaseProject\dataBaseProject\obj\Debug\dataBaseProject.FormAdd.resources
